@@ -84,5 +84,3 @@ for i in range(len(address)-1):
     reform=driver.find_element(By.XPATH,'/html/body/div[1]/div[2]/div[1]/div/div[4]/a')
     reform.click()
 
-
-hehehe
